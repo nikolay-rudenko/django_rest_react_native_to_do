@@ -1,4 +1,4 @@
-# django_rest_react_native_to_do
+## Django rest with react todo app
 
 This is simple todo application
 
